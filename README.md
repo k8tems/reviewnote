@@ -3,9 +3,9 @@
 - BookImageMst
 - Settings
 - MyScheduleMst
-- SystemInfo
+- SystemInfo  
     OSのバージョン
-- BookMst
+- BookMst  
     教科書のリスト
 - ScheduleTbl  
     終了分含めたスケジュール  
